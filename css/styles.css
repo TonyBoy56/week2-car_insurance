@@ -1,3 +1,8 @@
+body {
+  background-color: rgb(112, 124, 123);
+  color: red;
+}
+
 .btn {
   display: block;
 }
